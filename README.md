@@ -11,7 +11,7 @@
 1. **파이썬 사용 시**  
    ```bash
    $ python fetch_pubchem.py <PubChem CID>
-````
+   ````
 
 2. **윈도우 batch 파일 사용 시**
 
